@@ -1,0 +1,18 @@
+.gallery {
+display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+    margin: 36px;
+    padding: 36px;
+}
+
+.containerGallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+}
